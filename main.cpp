@@ -1,3 +1,4 @@
+
 #include <cstdio>
 #include <cstdlib>
 #include "TextureConverter.h"
@@ -12,6 +13,7 @@ enum Argument {
 };
 
 int main(int argc, char* argv[]) {
+
 	assert(argc <= NumArgument);
 
 	//COMƒ‰ƒCƒuƒ‰ƒŠ‚Ì‰Šú‰»
