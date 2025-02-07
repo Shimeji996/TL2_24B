@@ -1,4 +1,3 @@
-
 #include "TextureConverter.h"
 #include <Windows.h>
 
